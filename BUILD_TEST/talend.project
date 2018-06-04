@@ -2413,6 +2413,13 @@
       <relatedItems xmi:id="_AugkqWflEeiikPOUWTlRUg" id="TalendDataGenerator" version="Latest" type="routine"/>
       <relatedItems xmi:id="_AugkqmflEeiikPOUWTlRUg" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_Augkq2flEeiikPOUWTlRUg" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Rc08EGflEeiikPOUWTlRUg" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Rc08EWflEeiikPOUWTlRUg" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Rc08EmflEeiikPOUWTlRUg" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Rc08E2flEeiikPOUWTlRUg" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Rc08FGflEeiikPOUWTlRUg" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Rc08FWflEeiikPOUWTlRUg" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Rc08FmflEeiikPOUWTlRUg" id="MDM" version="Latest" type="routine"/>
     </ItemsRelations>
     <migrationTask xmi:id="_WRQRMGfhEeiRQMOhKDc-ZQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_WRQRMWfhEeiRQMOhKDc-ZQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
