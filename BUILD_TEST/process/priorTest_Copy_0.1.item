@@ -119,8 +119,8 @@
     <elementParameter field="CLOSED_LIST" name="ICON" value="INFORMATION_MESSAGE"/>
     <elementParameter field="CHECK" name="ANSWER_MASK" value="false" show="false"/>
     <elementParameter field="MEMO" name="QUESTION_LABEL" value="&quot;Question ?&quot;" show="false"/>
-    <elementParameter field="MEMO" name="MESSAGE" value="&quot;Talend checking to jira! &quot;"/>
-    <elementParameter field="TEXT" name="LABEL" value="Talend checkin to jira"/>
+    <elementParameter field="MEMO" name="MESSAGE" value="&quot;Talend checking to jira ramesh! &quot;"/>
+    <elementParameter field="TEXT" name="LABEL" value="Talend checkin by ramesh"/>
     <elementParameter field="TEXT" name="HINT" value="__UNIQUE_NAME__"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tMsgBox_1"/>
