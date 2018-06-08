@@ -2622,6 +2622,9 @@
     <deletedFolders>process/t02_Concatening</deletedFolders>
     <deletedFolders>process/t03_DemoRoutines</deletedFolders>
     <deletedFolders>process/t04_Context</deletedFolders>
+    <deletedFolders>process/Customer</deletedFolders>
+    <deletedFolders>process/DataMart/standardizedlayer_to_outboundlayer</deletedFolders>
+    <deletedFolders>process/DataMart</deletedFolders>
     <migrationTask xmi:id="_WRQRMGfhEeiRQMOhKDc-ZQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_WRQRMWfhEeiRQMOhKDc-ZQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_WRQRMmfhEeiRQMOhKDc-ZQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
