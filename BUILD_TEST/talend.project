@@ -2597,6 +2597,42 @@
       <relatedItems xmi:id="_cggko2sdEeib4-JN3aJ5qg" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_cggkpGsdEeib4-JN3aJ5qg" id="A2_standardizeaddressTstandardizerow_1" version="Latest" type="routine"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_dzWFYGsdEeib4-JN3aJ5qg">
+      <baseItem xmi:id="_dzWFYWsdEeib4-JN3aJ5qg" id="_Z8928BkFEeeQpo-mmZZtEQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_dzWFYmsdEeib4-JN3aJ5qg" id="_1eshQIccEeexwrKkCTTR7A" version="Latest" type="context"/>
+      <relatedItems xmi:id="_dzWFY2sdEeib4-JN3aJ5qg" id="_k055UKmeEeefs7g_ikqizw" version="Latest" type="context"/>
+      <relatedItems xmi:id="_dzWFZGsdEeib4-JN3aJ5qg" id="_JxDDQJ3eEeen9s2GBeGZlw" version="Latest" type="context"/>
+      <relatedItems xmi:id="_dzWFZWsdEeib4-JN3aJ5qg" id="_YnMqYIaAEeeNLu8eGV7rNw" version="Latest" type="context"/>
+      <relatedItems xmi:id="_dzWFZmsdEeib4-JN3aJ5qg" id="__hhtEH6VEeeIXIFCLGk8nQ" version="Latest" type="context"/>
+      <relatedItems xmi:id="_dzWFZ2sdEeib4-JN3aJ5qg" id="_DaMkoN7EEeW_BoHraO62SA" version="Latest" type="context"/>
+      <relatedItems xmi:id="_dzWFaGsdEeib4-JN3aJ5qg" id="_WcvjEMvtEeWntq7v2xWD-Q" version="Latest" type="context"/>
+      <relatedItems xmi:id="_dzWFaWsdEeib4-JN3aJ5qg" id="_uYkj0OBWEeW05u0OQW2FYg" version="Latest" type="context"/>
+      <relatedItems xmi:id="_dzWFamsdEeib4-JN3aJ5qg" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFa2sdEeib4-JN3aJ5qg" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFbGsdEeib4-JN3aJ5qg" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFbWsdEeib4-JN3aJ5qg" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFbmsdEeib4-JN3aJ5qg" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFb2sdEeib4-JN3aJ5qg" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFcGsdEeib4-JN3aJ5qg" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFcWsdEeib4-JN3aJ5qg" id="A2_normalizeaddressTstandardizerow_1" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFcmsdEeib4-JN3aJ5qg" id="Products_parsingTstandardizerow_1" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFc2sdEeib4-JN3aJ5qg" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFdGsdEeib4-JN3aJ5qg" id="SequenceGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFdWsdEeib4-JN3aJ5qg" id="emailValidation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFdmsdEeib4-JN3aJ5qg" id="WebSummaryUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFd2sdEeib4-JN3aJ5qg" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFeGsdEeib4-JN3aJ5qg" id="UserRoutines" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFeWsdEeib4-JN3aJ5qg" id="KeyGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFemsdEeib4-JN3aJ5qg" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFe2sdEeib4-JN3aJ5qg" id="A1_parisstreetindexcreationTstandardizerow_1" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFfGsdEeib4-JN3aJ5qg" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFfWsdEeib4-JN3aJ5qg" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFfmsdEeib4-JN3aJ5qg" id="MD5" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFf2sdEeib4-JN3aJ5qg" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFgGsdEeib4-JN3aJ5qg" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFgWsdEeib4-JN3aJ5qg" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_dzWFgmsdEeib4-JN3aJ5qg" id="A2_standardizeaddressTstandardizerow_1" version="Latest" type="routine"/>
+    </ItemsRelations>
     <deletedFolders>process/t01_Compo/CustomCode</deletedFolders>
     <deletedFolders>process/t01_Compo/DataQuality/tFuzzyMatch</deletedFolders>
     <deletedFolders>process/t01_Compo/DataQuality</deletedFolders>
