@@ -2561,18 +2561,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_lxIDAGsXEeiOlvcrAkTblw">
       <baseItem xmi:id="_lxIDAWsXEeiOlvcrAkTblw" id="_ZjHbwK8fEeeLCtZ5omoQeQ" version="0.1" type="job"/>
-      <relatedItems xmi:id="_lxIDAmsXEeiOlvcrAkTblw" id="_KBUjsJ96EeeJ99tx4Z6oaQ" version="Latest" type="context"/>
-      <relatedItems xmi:id="_lxIDA2sXEeiOlvcrAkTblw" id="_M4Dt4M9qEeeOioMe9Qahzg" version="Latest" type="context"/>
-      <relatedItems xmi:id="_lxIDBGsXEeiOlvcrAkTblw" id="_1eshQIccEeexwrKkCTTR7A" version="Latest" type="context"/>
-      <relatedItems xmi:id="_lxIDBWsXEeiOlvcrAkTblw" id="_k055UKmeEeefs7g_ikqizw" version="Latest" type="context"/>
-      <relatedItems xmi:id="_lxIDBmsXEeiOlvcrAkTblw" id="_09Xq8HqQEeahb_G08w9HHQ" version="Latest" type="context"/>
-      <relatedItems xmi:id="_lxIDB2sXEeiOlvcrAkTblw" id="__hhtEH6VEeeIXIFCLGk8nQ" version="Latest" type="context"/>
-      <relatedItems xmi:id="_lxIDCGsXEeiOlvcrAkTblw" id="_DaMkoN7EEeW_BoHraO62SA" version="Latest" type="context"/>
-      <relatedItems xmi:id="_lxIDCWsXEeiOlvcrAkTblw" id="_WcvjEMvtEeWntq7v2xWD-Q" version="Latest" type="context"/>
-      <relatedItems xmi:id="_lxIDCmsXEeiOlvcrAkTblw" id="_uYkj0OBWEeW05u0OQW2FYg" version="Latest" type="context"/>
-      <relatedItems xmi:id="_lxIDC2sXEeiOlvcrAkTblw" id="_S0EVIHwWEeabNcLaDcDCWg" version="Latest" type="context"/>
-      <relatedItems xmi:id="_lxIDDGsXEeiOlvcrAkTblw" id="_QB0psAv7Eei225wE6YR-rA" version="Latest" type="context"/>
-      <relatedItems xmi:id="_lxIDDWsXEeiOlvcrAkTblw" id="_nItFYOhmEeaaN42LfgmK4Q" version="Latest" type="context"/>
       <relatedItems xmi:id="_lxIDDmsXEeiOlvcrAkTblw" id="_NTRmcIZ9EeeNLu8eGV7rNw" version="Latest" type="job"/>
       <relatedItems xmi:id="_lxIDD2sXEeiOlvcrAkTblw" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_lxIDEGsXEeiOlvcrAkTblw" id="Numeric" version="Latest" type="routine"/>
@@ -2595,6 +2583,10 @@
       <relatedItems xmi:id="_lxIDIWsXEeiOlvcrAkTblw" id="Relational" version="Latest" type="routine"/>
       <relatedItems xmi:id="_lxIDImsXEeiOlvcrAkTblw" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_lxIDI2sXEeiOlvcrAkTblw" id="A2_standardizeaddressTstandardizerow_1" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_2PfdcGsYEeiOlvcrAkTblw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_2PfdcWsYEeiOlvcrAkTblw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_2PfdcmsYEeiOlvcrAkTblw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_2Pfdc2sYEeiOlvcrAkTblw" id="DataQualityDependencies" version="Latest" type="routine"/>
     </ItemsRelations>
     <deletedFolders>process/t01_Compo/CustomCode</deletedFolders>
     <deletedFolders>process/t01_Compo/DataQuality/tFuzzyMatch</deletedFolders>
