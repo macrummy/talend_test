@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2018-06-08T18:40:32.898+0530">
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2018-06-08T18:40:54.612+0530">
   <deletedItems id="_TdazEJHVEdy-YMmiA96G3g" path="t01_Compo/CustomCode" type="PROCESS"/>
   <deletedItems id="_Ds8AYNTSEdy7Z5AsSdUTvQ" path="t01_Compo/CustomCode" type="PROCESS"/>
   <deletedItems id="_2kY1AOdsEdu08_wAFUaozw" path="t01_Compo/CustomCode" type="PROCESS"/>
@@ -169,7 +169,6 @@
   <deletedItems id="_AuQF8GflEeiikPOUWTlRUg" path="" type="PROCESS"/>
   <deletedItems id="_c2O_UOdtEdu08_wAFUaozw" path="" type="PROCESS"/>
   <deletedItems id="_mkMJIJE9Ed2rzeJvhcQ3Aw" path="" type="PROCESS"/>
-  <deletedItems id="_BXudgK8ZEeeLCtZ5omoQeQ" path="Booking" type="PROCESS"/>
   <deletedItems id="_Vj26gLNJEeesjoG0Mc7nhA" path="Customer" type="PROCESS"/>
   <deletedItems id="_Z8928BkFEeeQpo-mmZZtEQ" path="DataMart/standardizedlayer_to_outboundlayer" type="PROCESS"/>
 </recyclebin:RecycleBin>
