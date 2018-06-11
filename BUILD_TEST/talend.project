@@ -1475,19 +1475,6 @@
       <relatedItems xmi:id="_m0PbwWfkEeiikPOUWTlRUg" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_m0PbwmfkEeiikPOUWTlRUg" id="Mathematical" version="Latest" type="routine"/>
     </ItemsRelations>
-    <ItemsRelations xmi:id="_m0Pbw2fkEeiikPOUWTlRUg">
-      <baseItem xmi:id="_m0PbxGfkEeiikPOUWTlRUg" id="_c2O_UOdtEdu08_wAFUaozw" version="0.1" type="job"/>
-      <relatedItems xmi:id="_m0PbxWfkEeiikPOUWTlRUg" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_m0PbxmfkEeiikPOUWTlRUg" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_m0Pbx2fkEeiikPOUWTlRUg" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_m0PbyGfkEeiikPOUWTlRUg" id="DemoRoutines" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_m0PbyWfkEeiikPOUWTlRUg" id="GetRandomPhoneNum" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_m0PbymfkEeiikPOUWTlRUg" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_m0Pby2fkEeiikPOUWTlRUg" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_m0PbzGfkEeiikPOUWTlRUg" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_m0PbzWfkEeiikPOUWTlRUg" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_m0PbzmfkEeiikPOUWTlRUg" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
     <ItemsRelations xmi:id="_m0Pbz2fkEeiikPOUWTlRUg">
       <baseItem xmi:id="_m0Pb0GfkEeiikPOUWTlRUg" id="_0RfqEIlPEd21AsZ01s2OrQ" version="0.1" type="job"/>
       <relatedItems xmi:id="_m0Pb0WfkEeiikPOUWTlRUg" id="Numeric" version="Latest" type="routine"/>
