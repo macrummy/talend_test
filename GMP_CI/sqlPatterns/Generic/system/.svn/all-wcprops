@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system
+END
+FilterColumns_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/FilterColumns_0.1.properties
+END
+FilterColumns_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/FilterColumns_0.1.item
+END
+Rollback_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/Rollback_0.1.properties
+END
+Rollback_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/Rollback_0.1.item
+END
+DropSourceTable_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/DropSourceTable_0.1.properties
+END
+DropSourceTable_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/DropSourceTable_0.1.item
+END
+FilterRow_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/FilterRow_0.1.properties
+END
+FilterRow_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/FilterRow_0.1.item
+END
+MergeUpdate_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/MergeUpdate_0.1.properties
+END
+MergeUpdate_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/MergeUpdate_0.1.item
+END
+Aggregate_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/Aggregate_0.1.properties
+END
+Aggregate_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/Aggregate_0.1.item
+END
+Commit_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/Commit_0.1.properties
+END
+Commit_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/Commit_0.1.item
+END
+MergeInsert_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/MergeInsert_0.1.properties
+END
+MergeInsert_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/MergeInsert_0.1.item
+END
+DropTargetTable_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/DropTargetTable_0.1.properties
+END
+DropTargetTable_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Generic/system/DropTargetTable_0.1.item
+END

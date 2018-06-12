@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_v5PUMBK_Eei90vYM42L1tg" id="_vuD-8BK_Eei90vYM42L1tg" label="SQLike" creationDate="2018-02-16T07:48:59.699+0530" modificationDate="2018-02-16T07:48:59.699+0530" version="0.1" item="_v5PUMhK_Eei90vYM42L1tg">
+    <author href="../../../talend.project#_ClJPIhK_Eeih_J6t2vPKbQ"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_v5PUMRK_Eei90vYM42L1tg" path="system"/>
+  <TalendProperties:RoutineItem xmi:id="_v5PUMhK_Eei90vYM42L1tg" property="_v5PUMBK_Eei90vYM42L1tg" state="_v5PUMRK_Eei90vYM42L1tg" builtIn="true">
+    <content href="SQLike_0.1.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>

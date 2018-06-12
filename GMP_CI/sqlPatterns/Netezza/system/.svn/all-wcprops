@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system
+END
+NetezzaFilterColumns_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaFilterColumns_0.1.properties
+END
+NetezzaFilterColumns_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaFilterColumns_0.1.item
+END
+NetezzaDropSourceTable_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaDropSourceTable_0.1.properties
+END
+NetezzaDropSourceTable_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaDropSourceTable_0.1.item
+END
+NetezzaFilterRow_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaFilterRow_0.1.properties
+END
+NetezzaFilterRow_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaFilterRow_0.1.item
+END
+NetezzaCreateTargetTable_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaCreateTargetTable_0.1.properties
+END
+NetezzaCreateTargetTable_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaCreateTargetTable_0.1.item
+END
+NetezzaAggregate_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaAggregate_0.1.properties
+END
+NetezzaAggregate_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaAggregate_0.1.item
+END
+NetezzaDropTargetTable_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaDropTargetTable_0.1.item
+END
+NetezzaDropTargetTable_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaDropTargetTable_0.1.properties
+END
+NetezzaCreateSourceTable_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaCreateSourceTable_0.1.properties
+END
+NetezzaCreateSourceTable_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Netezza/system/NetezzaCreateSourceTable_0.1.item
+END

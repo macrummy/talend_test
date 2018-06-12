@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/talend/!svn/ver/66124/GMP_CI/trunk/process
+END
+CI_Test_job1_1.2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/talend/!svn/ver/66074/GMP_CI/trunk/process/CI_Test_job1_1.2.properties
+END
+CI_Test_job1_1.2.item
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/talend/!svn/ver/66070/GMP_CI/trunk/process/CI_Test_job1_1.2.item
+END
+CI_Test_job1_1.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/talend/!svn/ver/65956/GMP_CI/trunk/process/CI_Test_job1_1.1.properties
+END
+CI_Test_job1_2.0.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/talend/!svn/ver/66124/GMP_CI/trunk/process/CI_Test_job1_2.0.properties
+END
+CI_Test_job1_1.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/talend/!svn/ver/65956/GMP_CI/trunk/process/CI_Test_job1_1.1.item
+END
+CI_Test_job1_2.0.item
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/talend/!svn/ver/66088/GMP_CI/trunk/process/CI_Test_job1_2.0.item
+END
+CI_Test_job1_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/talend/!svn/ver/65950/GMP_CI/trunk/process/CI_Test_job1_0.1.item
+END
+CI_Test_job1_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/talend/!svn/ver/65950/GMP_CI/trunk/process/CI_Test_job1_0.1.properties
+END
+CI_Test_job1_1.2.screenshot
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/talend/!svn/ver/66074/GMP_CI/trunk/process/CI_Test_job1_1.2.screenshot
+END
+CI_Test_job1_1.1.screenshot
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/talend/!svn/ver/65956/GMP_CI/trunk/process/CI_Test_job1_1.1.screenshot
+END
+CI_Test_job1_2.0.screenshot
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/talend/!svn/ver/66088/GMP_CI/trunk/process/CI_Test_job1_2.0.screenshot
+END
+CI_Test_job1_0.1.screenshot
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/talend/!svn/ver/65950/GMP_CI/trunk/process/CI_Test_job1_0.1.screenshot
+END

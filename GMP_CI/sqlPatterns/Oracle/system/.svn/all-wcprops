@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system
+END
+OracleFilterColumns_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleFilterColumns_0.1.properties
+END
+OracleFilterColumns_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleFilterColumns_0.1.item
+END
+OracleDropSourceTable_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleDropSourceTable_0.1.properties
+END
+OracleDropSourceTable_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleDropSourceTable_0.1.item
+END
+OracleFilterRow_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleFilterRow_0.1.properties
+END
+OracleFilterRow_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleFilterRow_0.1.item
+END
+OracleCreateTargetTable_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleCreateTargetTable_0.1.properties
+END
+OracleCreateTargetTable_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleCreateTargetTable_0.1.item
+END
+OracleAggregate_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleAggregate_0.1.properties
+END
+OracleAggregate_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleAggregate_0.1.item
+END
+OracleMerge_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleMerge_0.1.properties
+END
+OracleMerge_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleMerge_0.1.item
+END
+OracleCreateSourceTable_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleCreateSourceTable_0.1.properties
+END
+OracleCreateSourceTable_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleCreateSourceTable_0.1.item
+END
+OracleDropTargetTable_0.1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleDropTargetTable_0.1.properties
+END
+OracleDropTargetTable_0.1.item
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/talend/!svn/ver/65834/GMP_CI/trunk/sqlPatterns/Oracle/system/OracleDropTargetTable_0.1.item
+END
