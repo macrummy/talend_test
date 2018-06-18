@@ -1,148 +1,0 @@
-8
-
-dir
-71973
-https://cheqqer.svn.cloudforge.com/talend/GMP_CI/trunk
-https://cheqqer.svn.cloudforge.com/talend
-
-
-
-2018-06-07T10:27:40.224443Z
-71876
-girishkumarbk
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-91ef0d0e-e6f9-4f9b-8f83-861af1788a26
-
-.settings
-dir
-
-Databases
-dir
-
-Maps
-dir
-
-Namespace Containers
-dir
-
-Reports
-dir
-
-Sample Data
-dir
-
-Structures
-dir
-
-businessProcess
-dir
-
-businessProcessSVG
-dir
-
-code
-dir
-
-components
-dir
-
-context
-dir
-
-documentations
-dir
-
-images
-dir
-
-joblets
-dir
-
-joblets_spark
-dir
-
-joblets_spark_streaming
-dir
-
-metadata
-dir
-
-migration.log
-file
-
-
-
-
-2018-06-08T11:05:57.000000Z
-ac4d0ca2123ac8239d5181c1d1fc3b32
-2018-02-17T08:32:43.896017Z
-65946
-talend
-has-props
-
-process
-dir
-
-process_mr
-dir
-
-process_storm
-dir
-
-recycle_bin.index
-file
-
-
-
-
-2018-06-08T11:05:57.000000Z
-80f4a100517687a6ba13ea6474dcc121
-2018-02-19T11:46:52.490799Z
-66073
-talend
-has-props
-
-route_resources
-dir
-
-routelets
-dir
-
-routes
-dir
-
-services
-dir
-
-sqlPatterns
-dir
-
-talend.project
-file
-
-
-
-
-2018-06-08T11:05:57.000000Z
-b1965e047b864ac851a67f6f08080da1
-2018-06-07T10:27:40.224443Z
-71876
-girishkumarbk
-has-props
-
-tests
-dir
-
