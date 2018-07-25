@@ -2,3 +2,5 @@ this is new master
 resticed one
 thislfaslknfastkslfafalki
 checking the jira
+
+MADE few changes in git 
