@@ -8,6 +8,9 @@
   <packaging>pom</packaging>
   <name>GIT_TUI Codes Master</name>
   <url>http://www.talend.org/</url>
+  <modules>
+    <module>code/routines</module>
+  </modules>
   <properties>
     <talend.project.name>GIT_TUI</talend.project.name>
     <encoding>UTF-8</encoding>
